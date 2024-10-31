@@ -1,0 +1,82 @@
+.bacground-table{
+    background-color: rgb(63, 70, 70);
+    height: 800px;
+}
+.blocks_table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding-top: 30px;
+}
+.block_table{
+    height: 250px;
+    width: 400px;
+    background-color: rgb(56, 55, 55);
+    border-radius: 15px;
+}
+.icon-doctor{   
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-image: url("./../../public/image/icon/home_health.svg");
+    background-size: 100px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.title{
+    color: white;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.title2{
+    color: white;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+.icon_data{   
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-image: url("./../../public/image/icon/description.svg");
+    background-size: 100px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.icon_genetic{   
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-image: url("./../../public/image/icon/genetics.svg");
+    background-size: 100px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.icon_post{   
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-image: url("./../../public/image/icon/med_post.svg");
+    background-size: 100px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.icon_dataset{   
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-image: url("./../../public/image/icon/dataset.svg");
+    background-size: 100px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.icon_social{   
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-image: url("./../../public/image/icon/social.svg");
+    background-size: 100px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
